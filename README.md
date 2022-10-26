@@ -1,2 +1,4 @@
 # zaphress
 static restaurant web app
+# THE WEBSITE IS NOT RESPONSIVE, YOUR TASK AND CHALLENGE IS TO MAKE IT RESPONSIVE
+
